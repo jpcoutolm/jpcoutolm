@@ -24,13 +24,12 @@
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpcoutolm&show_icons=true&hide_border=true&theme=tokyonight" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcoutolm&layout=compact&hide_border=true&theme=tokyonight"/>
 
 ---
 
 ## 📫 Vamos nos conectar?
-- [LinkedIn](https://www.linkedin.com/in/joaopedrodocouto)
+- [LinkedIn](https://www.linkedin.com/in/joao-pedro-do-couto-lima-maranhao/)
 - ✉️ joaocouto.dev@email.com
 
 ---
