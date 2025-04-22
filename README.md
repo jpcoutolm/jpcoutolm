@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-developer-green)
 ![Open to Work](https://img.shields.io/badge/open%20to%20work-yes-brightgreen)
 
-🎓 Estudante de **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas**  
+🎓 Estudante de **Engenharia da Computação**  
 🤖 Apaixonado por **Inteligência Artificial**, automações e aplicações com impacto real  
 🧠 Curioso por natureza. Em constante evolução como dev, maker e criador de ideias
 
